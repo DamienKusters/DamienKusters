@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DamienKusters
-- 👀 I’m interested in Cloud/DevOps Development
+- 👀 I’m interested in Cloud/DevOps, Linux, Software Automation & Godot
 - 🌱 I’m currently learning Azure DevOps
 - 📫 How to reach me: https://www.linkedin.com/in/damien-kusters
 
