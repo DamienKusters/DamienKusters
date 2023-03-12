@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamienKusters
 - 👀 I’m interested in Cloud, Linux, Software Automation & Godot
-- 🌱 I’m currently learning Microsoft Azure
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: https://www.linkedin.com/in/damien-kusters
 
 <!---
