@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamienKusters
 - 👀 I’m interested in Cloud, Linux, Software Automation & Game Development
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: https://www.linkedin.com/in/damien-kusters
 
 <!---
